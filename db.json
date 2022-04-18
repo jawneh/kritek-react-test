@@ -1,24 +1,40 @@
 {
-  "posts": [
+  "projects": [
     {
-      "title": "JSON SERVER",
-      "author": "foo",
+      "description": "next in line",
+      "owner": "jason miller",
+      "title": "Ticketing software",
       "id": 1
     },
     {
-      "title": "REACT",
-      "author": "facebook",
+      "title": "Traffick control module",
+      "owner": "Paul and Paul",
+      "description": "red, yellow and green",
       "id": 2
     },
     {
-      "title": "BOOTSTRAP",
-      "author": "css master",
+      "description": "auto bot",
+      "owner": "chris evans",
+      "title": "Slack channel bot",
       "id": 3
     },
     {
-      "title": "MEDIUM",
-      "author": "medium",
+      "description": "nosql database",
+      "owner": "Ali Faraday",
+      "title": "MongoDB database housing",
       "id": 4
+    },
+    {
+      "title": "Testing title done",
+      "owner": "testing edit",
+      "description": "testing description",
+      "id": 5
+    },
+    {
+      "title": "Laptop new",
+      "owner": "seedy",
+      "description": "free for all",
+      "id": 6
     }
   ]
 }
