@@ -1,5 +1,7 @@
 # Getting Started with Kritek React Test CRUD App
 
+_json-server installation is required. Global installation used in this project_
+
 ## Available scripts
 
 _npm run start_
